@@ -34,3 +34,7 @@
 # IntelliJ IDEA files
 *.iml
 .idea/*
+
+# Erlang specific files:
+*.beam
+
